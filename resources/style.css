@@ -28,3 +28,12 @@ a {
   font-family: verdana;
   font-size: 21px;
 }
+.footer {
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
+.footer p {
+  text-align: right;
+  color: gray;
+}
